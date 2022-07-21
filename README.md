@@ -18,11 +18,11 @@ Live Demo of project - (https://crkodervro.github.io/Splitwise-Cash-Flow-Minimiz
 
 ### AppPreview
 
-Get New Problem
+Get New Problem <br />
 <p align="center">
   <img src="Solve problem (2).png" width="700" alt="accessibility text">
 </p>
-Solve that problem
+Solve that problem <br /><br />
 <p align="center">
   <img src="Solve problem (1).png" width="700" alt="accessibility text">
 </p>
