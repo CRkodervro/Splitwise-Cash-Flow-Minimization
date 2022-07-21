@@ -12,6 +12,8 @@ A mini project basically to perform operations with image
 
 Used basically concept of max heap.
 
+Time complexity - NlogN
+
 Live Demo of project - (https://crkodervro.github.io/Splitwise-Cash-Flow-Minimization/)
 
 ### AppPreview
