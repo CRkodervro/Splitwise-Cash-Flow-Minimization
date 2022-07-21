@@ -1,1 +1,2 @@
-# Splitwise-Cash-Flow-Minimization
+# Cash Settlement Mini project
+
