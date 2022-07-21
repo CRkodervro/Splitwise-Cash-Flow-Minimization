@@ -1,6 +1,6 @@
 # Cash Settlement Mini project
 
-A mini project basically to perform operations with image
+A mini project basically to reduce overall no of transaction between group of candidates.
 
 ## Languages used
 1. HTML
